@@ -1,3 +1,3 @@
 # DESAFIO DIO: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
-Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Para isso, os pilares da OO são devidamente formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessantes ;-)
+O projeto consistiu, primordialmente, em desmistificar a Programação Orientada a Objetos (POO) com Java e praticar esse conceito fundamental no desafio. Para isso, os pilares da OO foram formalizados: Abstração, Encapsulamento, Herança e Polimorfismo. Com isso, foi possível desenvolver a capacidade de abstração com um problema real e implementação das evoluções que achei mais interessante ;-)
